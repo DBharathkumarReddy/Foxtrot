@@ -1,6 +1,8 @@
 # Medium Clone
 
-- Medium is a publishing platform where people can read important, insightful stories on the topics and share ideas with the world
+Medium is a publishing platform where people can read important, insightful stories on the topics and share ideas with the world
+
+Check the demo here https://medium-web.netlify.app/
 
 
 ## Usage
