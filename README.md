@@ -1,6 +1,6 @@
 # Medium Clone
 
-Medium is a blogging Website.
+- Medium is a publishing platform where people can read important, insightful stories on the topics and share ideas with the world
 
 
 ## Usage
